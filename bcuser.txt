@@ -455,26 +455,24 @@ Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T715Y Build/NRD90M)
 Dalvik/2.1.0 (Linux; U; Android 5.1.1; Lenovo TB2-X30F Build/LenovoTB2-X30F)
 Dalvik/2.1.0 (Linux; U; Android 5.1.1; Lenovo YT3-850L Build/LMY47V)
 Dalvik/1.6.0 (Linux; U; Android 4.1.2; HTC Desire 500 dual sim Build/JZO54K)
-Dalvik/2.1.0 (Linux; U; Android 6.0.1; Redmi Note 3 MIUI/V9.5.3.0.MHOMIFA)
-Dalvik/2.1.0 (Linux; U; Android 5.0.2; LG-D618 Build/LRX22G)
-Dalvik/2.1.0 (Linux; U; Android 6.0; Micromax Q350 Build/MRA58K)
-Dalvik/2.1.0 (Linux; U; Android 6.0; Joy Pro Build/MRA58K)
-Dalvik/2.1.0 (Linux; U; Android 5.0.2; HTC One Build/LRX22G)
-Dalvik/2.1.0 (Linux; U; Android 7.0; HUAWEI VNS-L21 Build/HUAWEIVNS-L21)
-Dalvik/2.1.0 (Linux; U; Android 5.1; m2 note Build/LMY47D)
-Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-N950U1 Build/R16NW)
-Dalvik/2.1.0 (Linux; U; Android 7.1.1; MI MAX 2 MIUI/V9.5.4.0.NDDMIFA)
-Dalvik/1.6.0 (Linux; U; Android 4.4.4; vivo Y27L Build/KTU84P)
-Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-J320H Build/LMY47V)
-Dalvik/2.1.0 (Linux; U; Android 5.0.1; GT-I9505 Build/LRX22C)
-Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T825 Build/NRD90M)
-Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-T355 Build/NMF26X)
-Dalvik/2.1.0 (Linux; U; Android 6.0.1; Redmi 4 MIUI/V8.0.3.0.0.MCECNDG)
-Dalvik/2.1.0 (Linux; U; Android 7.0; LGL84VL Build/NRD90U)
-Dalvik/1.6.0 (Linux; U; Android 4.4.4; ZTE Blade Q Lux Build/KTU84P)
-Dalvik/2.1.0 (Linux; U; Android 7.0; XT1585 Build/NCK25.118-10.5)
-Dalvik/2.1.0 (Linux; U; Android 7.0; SM-J701F Build/NRD90M)
-Dalvik/2.1.0 (Linux; U; Android 7.1.2; vivo 1716 Build/N2G47H)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:34.0) Gecko/20100101 Firefox/34.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:36.0) Gecko/20100101 Firefox/36.0
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.130 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/600.6.3 (KHTML, like Gecko) Version/8.0.6 Safari/600.6.3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.155 Safari/537.36 OPR/31.0.1889.174
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2503.0 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/600.8.9 (KHTML, like Gecko)
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/601.1.56 (KHTML, like Gecko) Version/9.0 Safari/601.1.56
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.81 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/600.6.3 (KHTML, like Gecko) Version/7.1.6 Safari/537.85.15
 Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.99 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.93 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile Safari/537.36 OPR/42.5.2246.114172
@@ -664,18 +662,6 @@ Mozilla/5.0 (Linux; U; Android 4.0.4; en-us; Galaxy Nexus Build/IMM76L) AppleWeb
 Mozilla/5.0 (Linux; U; Android 4.0.4; zh-tw; Galaxy Nexus Build/IMM76K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 Mozilla/5.0 (Linux; U; Android 4.1; en-us; Galaxy Nexus Build/JRN84D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 Mozilla/5.0 (Linux; U; Android 4.3; en-us; Google Galaxy Nexus - 4.3 - API 18 - 720x1280 Build/JLS36G) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
-Dalvik/2.1.0 (Linux; U; Android 7.0; SM-C5000 Build/NRD90M)
-Dalvik/2.1.0 (Linux; U; Android 7.0; XT1575 Build/NPHS25.200-23-1)
-Dalvik/2.1.0 (Linux; U; Android 7.0; SM-A310F Build/NRD90M)
-Dalvik/1.5.1 (Linux; U; Android 3.1; GT-P7510 Build/HMJ37)
-Dalvik/1.6.0 (Linux; U; Android 4.2.2; Allview_Viva_H8 Build/JDQ39)
-Dalvik/2.1.0 (Linux; U; Android 7.0; HTC_0PJA10 Build/NRD90M)
-Dalvik/2.1.0 (Linux; U; Android 5.0.2; SM-T535 Build/LRX22G)
-Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-T561 Build/KTU84P)
-Dalvik/2.1.0 (Linux; U; Android 7.1.1; XT1609 Build/NPIS26.48-38-3)
-Dalvik/2.1.0 (Linux; U; Android 7.0; SM-J530Y Build/NRD90M)
-Dalvik/2.1.0 (Linux; U; Android 7.1.1; XT1635-01 Build/NDNS26.118-23-12-7-4)
-Dalvik/2.1.0 (Linux; U; Android 7.0; SM-N920V Build/NRD90M)
 Mozilla/5.0 (Linux; U; Android 4.3; de-de; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 (Mobile; afma-sdk-a-v13280003.12451000.1)
 Mozilla/5.0 (Linux; Android 5.1.1; Galaxy Nexus Build/LMY48Y) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.0.0.0 Mobile Safari/537.36 (Mobile; afma-sdk-a-v19649999.12451000.1)
 Mozilla/5.0 (Linux; U; Android 4.0; ko-kr; Galaxy Nexus Build/IFL10F) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
@@ -697,16 +683,6 @@ Mozilla/5.0 (Linux; Android 4.2.1; Galaxy Nexus Build/JOP40D) AppleWebKit/537.36
 Mozilla/5.0 (Linux; U; Android 4.3; zh-cn; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 Mozilla/5.0 (Linux; U; Android 4.1.1; ko-kr; Galaxy Nexus Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30
 Mozilla/5.0 (Linux; U; Android 4.2.1; en-us; Galaxy Nexus Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30evme-launcher
-Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G920I Build/NRD90M)
-Dalvik/2.1.0 (Linux; U; Android 7.0; LG-H870DS Build/NRD90U)
-Dalvik/1.6.0 (Linux; U; Android 4.4.4; SM-T239 Build/KTU84P)
-Dalvik/2.1.0 (Linux; U; Android 7.1.2; Redmi 4A MIUI/V9.5.4.0.NCCMIFA)
-Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-P600 Build/LMY47X)
-Dalvik/2.1.0 (Linux; U; Android 5.1; M3s Build/LMY47I)
-Dalvik/2.1.0 (Linux; U; Android 5.0.2; LG-K410 Build/LRX22G)
-Dalvik/1.2.0 (Linux; U; Android 2.2.1; BEBOOK070I00 Build/FRF91)
-Dalvik/1.6.0 (Linux; U; Android 4.1.2; ST26i Build/11.2.A.0.31)
-Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-A700FD Build/MMB29M)
 Nokia6280/2.0 (03.60) Profile/MIDP-2.0 Configuration/CLDC-1.1
 Nokia7610/2.0 (5.0509.0) SymbianOS/7.0s Series60/2.1 Profile/MIDP-2.0 Configuration/CLDC-1.0
 Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba
