@@ -403,7 +403,7 @@ Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48T) AppleWebKit/537.36 (KHT
 Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.89 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.85 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36
-M ozilla/5.0 (Linux; Android 4.3; Nexus 4 Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.92 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 4.3; Nexus 4 Build/JWR66Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.92 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 4.4.4; Nexus 4 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.117 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 4.4.4; Nexus 4 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.59 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 5.0.1; Nexus 4 Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.89 Mobile Safari/537.36
@@ -428,30 +428,20 @@ Mozilla/5.0 (Linux; U; Android 4.3; Google Nexus 4 Build/JLS36G) AppleWebKit/534
 Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 5.1.1; Nexus 4 Build/LMY48T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.76 Mobile Safari/537.36
 Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3329.0 Mobile Safari/537.36
-Dalvik/2.1.0 (Linux; U; Android 7.0; SM-A320FL Build/NRD90M)
-Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G930F Build/NRD90M)
 Dalvik/2.1.0 (Linux; U; Android 6.0.1; LG-M154 Build/MXB48T)
 Dalvik/1.6.0 (Linux; U; Android 4.1.2; SM-T210 Build/JZO54K)
-Dalvik/2.1.0 (Linux; U; Android 8.0.0; SM-G950F Build/R16NW)
-Dalvik/2.1.0 (Linux; U; Android 7.1.1; Nexus 6 Build/NGI77B)
 Dalvik/2.1.0 (Linux; U; Android 5.1.1; Lenovo A2020a40 Build/LMY47V)
 Dalvik/1.6.0 (Linux; U; Android 4.2.2; CR10A20-31 Build/JDQ39)
 Dalvik/1.6.0 (Linux; U; Android 4.4.2; PSP5504DUO Build/KOT49H)
 Dalvik/1.6.0 (Linux; U; Android 4.4.2; LenovoA3300-GV Build/KOT49H)
-Dalvik/2.1.0 (Linux; U; Android 7.1.2; Redmi Note 5A MIUI/V9.2.5.0.NDFMIEK)
-Dalvik/2.1.0 (Linux; U; Android 7.0; SM-A720F Build/NRD90M)
 Dalvik/1.6.0 (Linux; U; Android 4.3.1; GT-I9300 Build/JLS36I)
-Dalvik/2.1.0 (Linux; U; Android 7.0; SM-J710F Build/NRD90M)
 Dalvik/2.1.0 (Linux; U; Android 6.0; PMT3131_3G Build/MRA58K)
 Dalvik/1.6.0 (Linux; U; Android 4.2.2; HTC One X Build/JDQ39)
 Dalvik/2.1.0 (Linux; U; Android 5.1; T02 Build/LMY47D)
-Dalvik/2.1.0 (Linux; U; Android 7.0; SM-G935F Build/NRD90M)
 Dalvik/2.1.0 (Linux; U; Android 5.1.1; Lenovo A6020a40 Build/LMY47V)
 Dalvik/1.5.1 (Linux; U; Android 3.2.1; A501 Build/HTK55D)
 Dalvik/2.1.0 (Linux; U; Android 5.0; Tab2A7-10F Build/LRX21M)
 Dalvik/1.6.0 (Linux; U; Android 4.3; SGP321 Build/10.4.B.0.569)
-Dalvik/2.1.0 (Linux; U; Android 7.1.1; SM-J510H Build/NMF26X)
-Dalvik/2.1.0 (Linux; U; Android 7.0; SM-T715Y Build/NRD90M)
 Dalvik/2.1.0 (Linux; U; Android 5.1.1; Lenovo TB2-X30F Build/LenovoTB2-X30F)
 Dalvik/2.1.0 (Linux; U; Android 5.1.1; Lenovo YT3-850L Build/LMY47V)
 Dalvik/1.6.0 (Linux; U; Android 4.1.2; HTC Desire 500 dual sim Build/JZO54K)
